@@ -4,8 +4,8 @@
   * que el primero contenga todos los elementos del segundo
   */
  
-let words1 = ["arms", "guns", "lol", "damnboy", "niced*ck", "ohlysh*t"];
-let words2 = ["lol", "niced*ck", "damnboy", "guns", "ohlysh*t", "arms"];
+let words1 = ["arms", "guns", "lol", "damnboy", "niced*ck"];
+let words2 = ["Ohly", "arms", "guns", "hello", "damnboy", "niced*ck"];
 
 
 function activity5(w1:any, w2:any) {
